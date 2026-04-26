@@ -51,5 +51,3 @@ altitude = float(input('Please insert your current altitude (m): '))
 temperature = float(input('Please insert your current temperature (C): '))
 
 print(main_calc(altitude, temperature))
-
-print("ambasing")
